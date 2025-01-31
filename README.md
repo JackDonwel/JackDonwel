@@ -25,7 +25,7 @@ Ensure you have the following dependencies installed before running the tool:
 ## Installation
 Clone the repository and navigate to the project directory:
 ```bash
-git clone https://github.com/Jackdonwel/SMB-DONBRUTE.git
+git clone https://github.com/JackDonwel/JackDonwel.git
 cd SMB-DONBRUTE
 ```
 
