@@ -199,8 +199,5 @@ logging.info("Brute-force attack completed!")
 logging.info(f"Total attempts: {attempt_count}")
 
 # === FUTURE ENHANCEMENTS ===
-# You can expand this tool further by:
-# - Implementing distributed brute-force (client-server model)
-# - Adding a GUI for easier configuration and monitoring
-# - Integrating proxy/VPN support to route your traffic
+
 # - Generating detailed reports automatically after the attack
