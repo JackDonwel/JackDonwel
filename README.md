@@ -50,8 +50,13 @@ I believe in the power of technology, continuous learning, and innovation to tra
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JackDonwel&show_icons=true&theme=radical" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackDonwel&layout=compact&theme=radical" width="380" />
+  <!-- Primary stats (may be blank if new account) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JackDonwel&show_icons=true&theme=radical&hide_border=true" width="450" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackDonwel&layout=compact&theme=radical&hide_border=true" width="380" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <i>✨ Stats appear once I have public repositories with commits. Building soon!</i>
 </p>
 
 ## 📬 Connect with Me
