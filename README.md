@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Cybersecurity Professional**, **Python Developer**, and **Ethical Hacker studied in Sumy State University ** from Tanzania 🇹🇿.  
+I'm a passionate **Cybersecurity Professional**, **Python Developer**, and **Ethical Hacker studied in Sumy State University** from Tanzania 🇹🇿.  
 I believe in the power of technology, continuous learning, and innovation to transform the world.
 
 - 🌟 Skilled in **Python, Django, Flask, Streamlit, C++, Java, Rust, Cython, Bash**, and **Linux Systems** (especially Kali Linux).
