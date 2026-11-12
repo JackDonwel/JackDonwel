@@ -17,7 +17,7 @@ I believe in the power of technology, continuous learning, and innovation to tra
 - 🔐 Focused on **Cybersecurity, Penetration Testing, Malware Development**, and **System Hardening**.
 - 💻 Creator of tools like **Brute-pass**.
 - 🤖 Building **AI-powered trading bots** and **self-learning AI systems**.
-- 🎓 Learning through **TryHackMe, Cisco Networking Academy**, and **Harvard Cybersecurity Program**.
+- 🎓 Learning through **TryHackMe, Cisco Networking Academy**, Sumy state university and **Harvard Cybersecurity Program**.
 - 🚀 Passionate about **Ethical Hacking, Software Development**, and **Electronic Engineering**.
 - 🌍 Vision: Become one of the world's top cybersecurity experts and a billionaire innovator.
 - 🎯 Motto: *"Keep learning. Keep building. Stay unstoppable."*
